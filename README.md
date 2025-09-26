@@ -1,5 +1,5 @@
 <!-- # Konnichiwa minasan 👋 -->
-<<<<<<< HEAD
+
 ![Gio Vernado](img/github.png)
 
 <!-- ##### Skills
