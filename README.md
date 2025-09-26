@@ -1,5 +1,4 @@
 <!-- # Konnichiwa minasan 👋 -->
-![Uploading github-header-banner (1).png…]()
 
 
 <!-- ##### Skills
