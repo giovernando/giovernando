@@ -32,8 +32,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=giovernando&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-### Play Games with me
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<!-- ### Play Games with me
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" /> -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=giovernando&icon=0&color=0)](https://visitcount.itsvg.in)
