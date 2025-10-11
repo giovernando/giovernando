@@ -6,7 +6,7 @@
 =======
 
 
-<!-- ##### Skills
+ ##### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,vuejs,php,laravel,mysql&theme=dark)](https://skillicons.dev)
 
 >>>>>>> f17866b9f4483b489e3a552bf5ccbabb36b3e419
