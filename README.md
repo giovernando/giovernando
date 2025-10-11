@@ -19,7 +19,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/soudayou__) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_vrnangio)
 
 #### Skills
-[![My Skills](https://skillicons.dev/icons?i=,html,css,js,vue.js,php,laravel,mysql,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,vuejs,php,laravel,mysql&theme=dark)](https://skillicons.dev)
 
 #### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=giovernando&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
