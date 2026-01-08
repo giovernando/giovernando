@@ -5,7 +5,6 @@
 
 =======
 
-
  ##### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,vuejs,php,laravel,mysql&theme=dark)](https://skillicons.dev)
 
