@@ -14,7 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=giovernando&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-#### 🏆 GitHub Trophies
+<!--#### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=giovernando&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 #### 🔝 Top Contributed Repo
