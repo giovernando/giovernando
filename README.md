@@ -6,27 +6,65 @@
 #### 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/soudayou__) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_vrnangio)
 
-<!--
-#### Skills:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
-## 📊 **GitHub Stats**  
+## What I Love Building
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=giovernando&theme=radical" width="100%" height="250" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=giovernando&layout=compact&theme=dracula&langs_count=6" height="200" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api?username=giovernando&show_icons=true&theme=dracula&count_private=true" height="200" alt="Top Languages" />
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQ4ZDJ6OGNzYzF4dWN3OG8yYjN4OHVyeGpzNnFkNnRnb2ttZXB3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="180"/>
+
+### AI-Driven Systems
+
+<div style="text-align: justify">
+
+**Intelligent Agents** • **NPC Behaviors** • **Procedural Generation** • **Autonomous Decision Making**
+
+Crafting intelligent systems where AI entities make autonomous decisions, learn from patterns, adapt to environments, and create emergent, dynamic gameplay experiences that feel truly alive.
+
 </div>
 
+</td>
+<td align="center" width="33%">
 
-#### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=giovernando&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://media1.tenor.com/m/IQ6Z-aPhr1wAAAAd/date-everywhere-data.gif" width="180"/>
 
-#### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=giovernando&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### Simulation Engines
+
+<div style="text-align: justify">
+
+**Physics Modeling** • **Astronomy Visualization** • **Real-time Rendering** • **Interactive Experiences**
+
+Developing realistic physics-based simulations and astronomical visualizations that bring complex scientific concepts to life through interactive, educational, and visually stunning experiences.
+
+</div>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGd6Ym5qMGgyb2c3NnhqYnV2amJtcHV5NXlhcGo2YTlyMHJoaWFodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
+
+### Automation Tools
+
+<div style="text-align: justify">
+
+**Smart Dashboards** • **Data Pipelines** • **AI Assistants** • **Workflow Automation**
+
+Engineering powerful automation solutions that eliminate repetitive tasks, streamline complex workflows, and empower teams to focus on creative problem-solving rather than manual processes.
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=giovernando&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
