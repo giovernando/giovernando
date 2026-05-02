@@ -64,32 +64,5 @@ Engineering powerful automation solutions that eliminate repetitive tasks, strea
 </div>
 
 ---
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> Let's Connect & Collaborate
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> **Open to discussing AI products, research collaborations, or building something innovative together!** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
-
-
-<br>
-<a href="https://www.linkedin.com/in/giovernando" target="_blank">
-  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-</a>
-
-<br/>
-<br>
-
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" height="28"/>
-<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" height="28"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1e293b&section=footer&text=Build%20fast.%20Ship%20clean.%20Iterate%20hard.&fontColor=e2e8f0&fontSize=24&fontAlignY=65&animation=twinkling" />
-
-</div>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
